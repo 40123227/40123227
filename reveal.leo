@@ -53,7 +53,7 @@
 <v t="leo.20151116031629.1"><vh>@edit 40123227_cp_w5_p.html</vh></v>
 <v t="leo.20151116031638.1"><vh>@edit 40123227_cp_w6_p.html</vh></v>
 <v t="leo.20151116031647.1"><vh>@edit 40123227_cp_w7_p.html</vh></v>
-<v t="leo.20151116072736.1"><vh>@edit 40123157_cp_w8_p.html</vh></v>
+<v t="leo.20151116072736.1"><vh>@edit 40123227_cp_w8_p.html</vh></v>
 </v>
 <v t="amd.20150915211341.1" a="E"><vh>@clean simplest.html</vh>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
