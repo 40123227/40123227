@@ -131,7 +131,7 @@ canvas.bind('click', on_canvas_click, False)
 &lt;/script&gt;
 
 &lt;h2&gt;心得&lt;/h2&gt;
-&lt;p&gt;函式好難喔，我還在研究~&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第十七週</title><link href="http://coursemdetw.github.io/reveal/40123227_w17.html" rel="alternate"></link><updated>2016-01-08T10:57:00+08:00</updated><author><name>紀培俞</name></author><id>tag:coursemdetw.github.io,2016-01-08:reveal/40123227_w17.html</id><summary type="html">&lt;h1&gt;Brython動畫&lt;/h1&gt;
+&lt;p&gt;函式好難喔&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 第十七週</title><link href="http://coursemdetw.github.io/reveal/40123227_w17.html" rel="alternate"></link><updated>2016-01-08T10:57:00+08:00</updated><author><name>紀培俞</name></author><id>tag:coursemdetw.github.io,2016-01-08:reveal/40123227_w17.html</id><summary type="html">&lt;h1&gt;Brython動畫&lt;/h1&gt;
 &lt;!-- 導入 brython.js --&gt;
 
 &lt;script type="text/javascript" src="http://brython.info/src/brython_dist.js"&gt;&lt;/script&gt;
@@ -482,7 +482,7 @@ canvas.bind('click', on_canvas_click, False)
 &lt;/script&gt;
 
 &lt;h2&gt;心得&lt;/h2&gt;
-&lt;p&gt;函式好難喔，我還在研究~&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業十六</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w16.html" rel="alternate"></link><updated>2015-11-14T16:00:00+08:00</updated><author><name>40123227</name></author><id>tag:coursemdetw.github.io,2015-11-14:reveal/2015cp_hw_w16.html</id><summary type="html">&lt;iframe src="40123227_cp_w8_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+&lt;p&gt;函式好難喔&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 作業十六</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w16.html" rel="alternate"></link><updated>2015-11-14T16:00:00+08:00</updated><author><name>40123227</name></author><id>tag:coursemdetw.github.io,2015-11-14:reveal/2015cp_hw_w16.html</id><summary type="html">&lt;iframe src="40123227_cp_w8_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="40123227_cp_w8_p.html" target="_blank"&gt;作業八投影片&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
